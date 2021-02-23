@@ -1,5 +1,5 @@
-# Conference Call
-A conference call implementation using WebRTC, Socket.io and Node.js.
+# Video Calling Application
+A Video Calling application implementation using WebRTC, Socket.io and Node.js.
 
 
 # Getting Started
