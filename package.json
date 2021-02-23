@@ -20,11 +20,14 @@
     "url": "git+https://github.com/amar-1999/video-calling-app.git"
   },
   "keywords": [
-    "LiveStream",
+    "Video Call",
     "Server"
   ],
   "author": "Damarakeswar <damarakeswarg1999@gmail.com>",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amar-1999/video-call-app/issues"
   },
   "homepage": "https://github.com/amar-1999/video-calling-app#readme"
+
 }
